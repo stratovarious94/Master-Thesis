@@ -1,0 +1,140 @@
+# 100
+
+- 2019-10-18 18:21:20.011 | INFO | **4924** duplicates have been identified in a pool of 22448 products.
+- 2019-10-18 18:21:20.079 | INFO | Dataset contains **17524** sites products
+___
+
+## Validation Set
+Dataset contains **5292** sites products
+
+
+### Label Brand
+- Micro
+**Precision**: 0.99622, **Recall**: 0.99622
+- Macro
+**Accuracy**: 0.99622, **Precision**: 0.95167, **Recall**: 0.95785, **F1-score**: 0.95358
+
+### Label Category
+- Micro
+**Precision**: 0.9898, **Recall**: 0.9898
+- Macro
+**Accuracy**: 0.9898, **Precision**: 0.94279, **Recall**: 0.94291, **F1-score**: 0.9418
+
+
+### Label Product Line
+- Micro
+**Precision**: 0.98998, **Recall**: 0.98998
+- Macro
+**Accuracy**: 0.99622, **Precision**: 0.95167, **Recall**: 0.95785, **F1-score**: 0.95358
+
+___
+
+## Test
+Dataset contains **5563** sites products ...
+
+### Brand
+- Micro
+**Precision**: 0.99712, **Recall**: 0.99712
+- Macro
+**Accuracy**: 0.99712, **Precision**: 0.94551, **Recall**: 0.94664, **F1-score**: 0.94605
+
+### Category
+- Micro
+**Precision**: 0.99065, **Recall**: 0.99065
+- Macro
+**Accuracy**: 0.99065, **Precision**: 0.96392, **Recall**: 0.96283, **F1-score**: 0.96324
+
+
+### Product Line
+- Micro
+**Precision**: 0.98868, **Recall**: 0.98868
+- Macro
+**Accuracy**: 0.98868, **Precision**: 0.94856, **Recall**: 0.95116, **F1-score**: 0.94902
+
+___
+___
+___
+
+# 50
+
+- 2019-10-19 22:40:21.090 | INFO | 9178 duplicates have been identified in a pool of 42255 products.
+- 2019-10-19 22:40:21.169 | INFO | Dataset contains 33077 sites products
+
+___
+
+## Validation
+Dataset contains **10008** sites products
+
+### Brand
+- Micro
+**Precision**: 0.99321, **Recall**: 0.99321
+- Macro
+**Accuracy**: 0.99321, **Precision**: 0.98196, **Recall**: 0.976, **F1-score**: 0.97832
+
+### Category
+- Micro
+**Precision**: 0.98072,	**Recall**: 0.98072
+- Macro
+**Accuracy**: 0.98072, **Precision**: 0.97836, **Recall**: 0.96884, **F1-score**: 0.972
+
+### Product Line
+- Micro
+**Precision**: 0.98042,	**Recall**: 0.98042
+- Macro
+**Accuracy**: 0.98042, **Precision**: 0.95312, **Recall**: 0.94856, **F1-score**: 0.94926
+
+
+___
+
+## Test
+Dataset contains **10503** sites products ...
+
+### Brand
+- Micro
+**Precision**: 0.99334, **Recall**: 0.99334
+- Macro
+**Accuracy**: 0.99334, **Precision**: 0.97648, **Recall**: 0.97364, **F1-score**: 0.97461
+
+### Category
+- Micro
+**Precision**: 0.97972,	**Recall**: 0.97972
+- Macro
+**Accuracy**: 0.97972, **Precision**: 0.97127, **Recall**: 0.96345, F1-score: 0.96609
+
+### Product Line
+- Micro
+**Precision**: 0.98029,	**Recall**: 0.98029
+- Macro
+**Accuracy**: 0.98029, **Precision**: 0.95003, **Recall**: 0.94934, **F1-score**: 0.94752
+
+___
+___
+___
+
+# 10
+
+- 2019-10-21 14:31:06.036 | INFO | 17827 duplicates have been identified in a pool of 87520 products.
+- 2019-10-21 14:31:06.206 | INFO | Dataset contains 69693 sites products
+
+___
+
+## Test
+Dataset contains **21805** sites products
+
+### Brand
+- Micro
+**Precision**: 0.99334, **Recall**: 0.99334
+- Macro
+**Accuracy**: 0.99334, **Precision**: 0.97648, **Recall**: 0.97364, **F1-score**: 0.97461
+
+### Category
+- Micro
+**Precision**: 0.97972,	**Recall**: 0.97972
+- Macro
+**Accuracy**: 0.97972, **Precision**: 0.97127, **Recall**: 0.96345, **F1-score**: 0.96609
+
+### Product Line
+- Micro
+**Precision**: 0.98029,	**Recall**: 0.98029
+- Macro
+**Accuracy**: 0.98029, **Precision**: 0.95003, **Recall**: 0.94934, **F1-score**: 0.94752
