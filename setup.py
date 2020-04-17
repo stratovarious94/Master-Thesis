@@ -30,7 +30,7 @@ setup(
     packages=find_packages(),
     python_requires='>=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, <4',
     install_requires=[
-        "tensorflow-gpu==2.0.0-beta1",
+        "tensorflow-gpu==2.0.1",
         "pandas==0.25.0",
         "sklearn==0.0",
         "pillow==6.1.0",
